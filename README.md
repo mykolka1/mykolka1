@@ -1,4 +1,3 @@
-https://github.com/mykolka1/mykolka1/blob/main/photo_2024-10-17_17-36-04.jpg
 # Mykola Syniuk
 ## I am front-end developer
 
