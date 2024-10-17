@@ -1,7 +1,14 @@
-## Hi there 👋
+### Hi there 👋, Mykola Syniuk
+#### I am front-end developer
+![I am front-end developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hello. I am Mykola Syniuk i com from Ukraine, and i am starter front-end developer. In free time I love spend time outside and going hiking, I enjoy coding websites, lvove playing guitare and love God.
+Hello. I am Mykola Syniuk i com from Ukraine, and i am starter front-end developer. In free time I love spend time outside and going hiking, I enjoy coding websites, love playing guitare and love God.
 
-here you can finde me on social networks: https://www.instagram.com/mykola.syniuk/
+Skills: HTML / CSS / JS / Figma 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolka1)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on my portfolio for Upwork 
+- 🌱 I’m currently learning new skill about my sector and practice 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mykola.syniuk//)  
+
