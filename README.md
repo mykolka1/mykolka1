@@ -9,5 +9,3 @@ Hello. I am Mykola Syniuk i com from Ukraine, and i am starter front-end develop
 - 🌱 I’m currently learning new skill about my sector and practice 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mykola.syniuk//)  
-
