@@ -8,4 +8,4 @@ Hello. I am Mykola Syniuk i com from Ukraine, and i am starter front-end develop
 - 🔭 I’m currently working on my portfolio for Upwork 
 - 🌱 I’m currently learning new skill about my sector and practice 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolka1)](https://github.com/anuraghazra/github-readme-stats)
